@@ -1,0 +1,7 @@
+# Direktori yang diabaikan
+/node_modules
+
+# File yang diabaikan
+.npmignore
+.editorconfig
+.vscode/
